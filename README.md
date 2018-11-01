@@ -1,2 +1,2 @@
-# vsts
-VSTS related utilities, scripts, and code
+# Azure DevOps
+Azure DevOps related utilities, scripts, and code
